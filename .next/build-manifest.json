@@ -25,10 +25,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/css/integracao1": [
+    "/css/usandoEstilo": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/css/integracao1.js"
+      "static/chunks/pages/css/usandoEstilo.js"
     ]
   },
   "ampFirstPages": []
