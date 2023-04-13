@@ -25,10 +25,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/css/usandoEstilo": [
+    "/estado/mouse": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/css/usandoEstilo.js"
+      "static/chunks/pages/estado/mouse.js"
     ]
   },
   "ampFirstPages": []
